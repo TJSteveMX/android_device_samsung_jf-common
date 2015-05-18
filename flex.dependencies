@@ -11,7 +11,7 @@
 "target_path": "kernel/samsung/jf"
 },
 {
-"remote":"cm",
+"remote":"tm",
 "repository":"proprietary_vendor_samsung",
 target_path="vendor/samsung"
 }
